@@ -11,7 +11,7 @@ As I continue growing as a Full Stack Developer, I am always open to new project
 * Collaboration: I thrive in team environments, working closely with cross-functional teams to deliver high-quality products.
 
 ## Technologies
-* Back-End: Experienced in Node.js and TypeScript, I have a solid foundation in server-side development, APIs, and database interactions.
+* Back-End: Experienced in Node.js, TypeScript, and Java with Spring Boot, I have a solid foundation in server-side development, RESTful APIs, and database interactions.
 * Front-End: My expertise in Svelte allows me to create responsive, dynamic interfaces, while my knowledge of HTML, CSS, and JavaScript ensures I deliver exceptional user experiences.
 * Tools: Git, GitHub, JSON, XML, XSLT, Adobe Photoshop, Illustrator, Premiere, After Effects, CorelDRAW.
 
